@@ -1,4 +1,4 @@
-package src.main.java.edu.unomaha.project;
+package edu.unomaha.project;
 
 
 public class Main {

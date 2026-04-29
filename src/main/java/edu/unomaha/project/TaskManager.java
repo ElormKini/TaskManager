@@ -1,4 +1,4 @@
-package src.main.java.edu.unomaha.project;
+package edu.unomaha.project;
 
 import java.util.ArrayList;
 

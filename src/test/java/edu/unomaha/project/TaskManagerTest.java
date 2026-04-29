@@ -1,8 +1,8 @@
-package src.test.java.edu.unomaha.project;
+package edu.unomaha.project;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-import src.main.java.edu.unomaha.project.TaskManager;
+import edu.unomaha.project.TaskManager;
 
 
 public class TaskManagerTest {
